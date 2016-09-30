@@ -19,3 +19,5 @@ this is GPL-based project so do whatever you want with it
  
  P>S> Looking for someone who can help with mmaps integration. thanks anyway
 
+
+Join the chat at https://gitter.im/JadeCore/Lobby
